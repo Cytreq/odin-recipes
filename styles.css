@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(76, 199, 244);
+}
+.return_home {
+    height: 20px;
+    width: auto;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: blueviolet;
+}
